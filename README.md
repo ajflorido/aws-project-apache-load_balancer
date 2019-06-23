@@ -1,5 +1,5 @@
 # aws-project-apache-load-balancer-terraform
-The purpose of this repository is to created  three replicas of autoscaling Ubuntu Vms using terraform in AWS free tier and deploy and a apache web server with a load balancer checking ELB health internally using differents concepts used by AWS and terraform.
+The purpose of this repository is to created  three replicas of autoscaling Ubuntu Vms with terraform in AWS free tier and deploy and a apache web server with a load balancer checking ELB health internally using differents concepts used by AWS and terraform.
 
 in order to check instances using load balancer configuration we will check instance_id variable using amazon meta-data in our user data file.
 
