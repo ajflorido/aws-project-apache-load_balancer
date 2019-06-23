@@ -26,10 +26,7 @@ https://www.terraform.io/docs/index.html
 https://docs.aws.amazon.com/
 
 # Commands
- - terraform init 
- - terraform refresh
- - terraform output 
+ - terraform init  
  - terraform plan
  - terraform apply --auto-approve
- - terraform plan --destroy
  - terraform destroy --force
